@@ -1,4 +1,4 @@
-# Build Your First SaaS Product with Next.js and FastAPI
+# SaaS Product with Next.js and FastAPI
 Today you'll build a complete full-stack application with a React frontend and Python backend, all deployed to production on Vercel.
 
 ENVS
