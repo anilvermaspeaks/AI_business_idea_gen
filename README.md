@@ -19,7 +19,8 @@ CLERK_JWKS_URL=
 
 
 
-![Uploading image.png…]()
+<img width="897" height="524" alt="image" src="https://github.com/user-attachments/assets/d9372210-2b73-4827-ab9e-99c8e40bb289" />
+
 
 
 <img width="386" height="488" alt="image" src="https://github.com/user-attachments/assets/73b8c398-6a36-4a30-914c-03eefe3fd324" />
